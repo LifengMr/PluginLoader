@@ -1,0 +1,3 @@
+include ':app', ':PluginLoader', ':PluginConfig'
+//include ':TestPlugin', ':PluginLoader', ':PluginConfig'
+//include ':TestApk' , ':PluginLoader'

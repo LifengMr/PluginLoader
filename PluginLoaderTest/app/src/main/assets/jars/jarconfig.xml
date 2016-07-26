@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<jars>
+    <item>
+        <name>LetvZxing.apk</name>
+        <packagename>com.letv.zxing</packagename>
+        <type>0</type>
+        <version>33</version>
+        <title>二维码扫描</title>
+        <desc>二维码扫描插件</desc>
+        <status>1</status>
+    </item>
+    
+    <item>
+        <name>TestPlugin.apk</name>
+        <packagename>com.testplugin</packagename>
+        <type>2</type>
+        <version>33</version>
+        <title>测试</title>
+        <desc>测试</desc>
+        <status>1</status>
+    </item>
+</jars>
